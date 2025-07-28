@@ -1,4 +1,4 @@
-# HR Analytics Project
+# End To End HR Analytics Project
 
 > **Author:** [ankit-kumarz](https://github.com/ankit-kumarz)
 
@@ -60,8 +60,8 @@ The job dataset was scraped from Glassdoor using Selenium and BeautifulSoup, con
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ankit-kumarz/HRAnalytics-Project-main.git
-cd HRAnalytics-Project-main
+git clone https://github.com/ankit-kumarz/End-To-End_HR-Analytics-Project
+cd HRAnalytics-Project
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
