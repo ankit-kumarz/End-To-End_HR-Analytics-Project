@@ -1,7 +1,3 @@
-
-# HR-Analytics-Project
-=======
-
 # HR Analytics Project
 
 > **Author:** [ankit-kumarz](https://github.com/ankit-kumarz)
