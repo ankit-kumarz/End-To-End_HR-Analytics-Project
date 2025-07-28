@@ -136,9 +136,11 @@ python hr_2.py
 This project is for educational and research purposes only.
 
 ## Sreenshots: 
-<img width="1920" height="1031" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/7096b5f9-694d-4b41-b0c0-ae8dabc0ba07" />
-
+## Case -1(Uploading Resume)
+<img width="1920" height="1031" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/ef36aa23-f90b-40dd-bbba-dcfc3beb3184" />
 <img width="1915" height="971" alt="Screenshot 2025-07-29 000556" src="https://github.com/user-attachments/assets/ddd39757-2130-4be4-87b3-22d9d880317f" />
+
+## Case -2(Enter Skills Manually)
 <img width="1919" height="965" alt="Screenshot 2025-07-29 000621" src="https://github.com/user-attachments/assets/d641fa5d-7a1c-448a-bbb0-114462abe0ff" />
 <img width="1918" height="971" alt="Screenshot 2025-07-29 000636" src="https://github.com/user-attachments/assets/d4912812-3c5c-4ef8-9754-e64bce5150e6" />
 <img width="1919" height="969" alt="Screenshot 2025-07-29 000655" src="https://github.com/user-attachments/assets/f1b37cfb-1b7d-4afd-830a-6cffdee736c8" />
