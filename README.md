@@ -24,7 +24,7 @@ The job dataset was scraped from Glassdoor using Selenium and BeautifulSoup, con
 
 ---
 
-## Demo
+## Demo 
 
 **Version 1:** Resume Upload
 ![Resume Upload UI](templates/model.html)
