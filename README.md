@@ -5,7 +5,7 @@
 ## Overview
 
 HR Analytics is a smart job recommender tool for HRs and job seekers. It suggests the top matching jobs from a dataset based on a candidate's skills, using advanced NLP and machine learning techniques. There are two main modes:
-
+ 
 - **Version 1:** Upload your resume (PDF, DOCX, or TXT) and the app extracts your skills automatically.
 - **Version 2:** Manually enter your skills and get job recommendations instantly.
 
