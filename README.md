@@ -126,7 +126,7 @@ python hr_2.py
 ## Credits
 
 - Project by [ankit-kumarz](https://github.com/ankit-kumarz)
-- Dataset: Glassdoor (scraped for educational purposes)
+- Dataset: Glassdoor (scraped for educational purposes).s
 - Libraries: Flask, pandas, scikit-learn, spaCy, pyresparser, textract, pdfminer, tika, NLTK, etc.
 
 ---
